@@ -9,5 +9,6 @@ package com.mycompany.pruebasubidaar;
  * @author kenda
  */
 public class OtraClase {
+    public int clase;
     
 }
